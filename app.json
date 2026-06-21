@@ -27,7 +27,6 @@
       ]
     },
     "plugins": [
-      "expo-sqlite",
       [
         "expo-file-system",
         {
@@ -45,3 +44,4 @@
     }
   }
 }
+
